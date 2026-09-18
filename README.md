@@ -35,13 +35,6 @@ Offline-first mobile workout journal for tracking strength training, cardio sess
 <!-- [Repository](https://github.com/rabpaulo/Liftbook) -->
 [Live Demo](https://rabpaulo.github.io/Liftbook-site/#home)
 
-### Simple Study
-Local-first mobile study planner for organizing subjects, study sessions, and exam schedules with on-device persistence.
-
-`React Native` · `Expo` · `TypeScript` · `SQLite`
-
-[Repository](https://github.com/rabpaulo/Simple-Study)
-
 ### Museu Unifor
 Native Android application for browsing museum artists, artwork collections, and exhibitions.
 
