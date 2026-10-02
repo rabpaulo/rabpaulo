@@ -16,34 +16,6 @@ I develop full-stack web and mobile applications with a focus on backend archite
 
 I apply Clean Architecture, SOLID principles, and CI/CD pipelines to build maintainable, well-structured software.
 
----
-
-## Featured Projects
-
-### LaunchShot
-Web studio to create clean, store-ready App Store and Google Play screenshots with customizable layouts and device frames.
-
-`Next.js` · `React` · `Tailwind CSS` · `TypeScript`
-
-[Repository](https://github.com/rabpaulo/LaunchShot) · [Live Demo](https://launch-shot.vercel.app/)
-
-### LiftBook
-Offline-first mobile workout journal for tracking strength training, cardio sessions, and bodyweight trends with local SQLite storage.
-
-`React Native` · `Expo` · `TypeScript` · `SQLite`
-
-<!-- [Repository](https://github.com/rabpaulo/Liftbook) -->
-[Live Demo](https://rabpaulo.github.io/Liftbook-site/#home)
-
-### Museu Unifor
-Native Android application for browsing museum artists, artwork collections, and exhibitions.
-
-`Kotlin` · `Jetpack Compose` · `Firebase`
-
-[Repository](https://github.com/rabpaulo/Museu-Unifor)
-
----
-
 ## Stack
 
 - **Languages:** TypeScript · JavaScript · Python · Kotlin · Java · SQL · Shell Script
