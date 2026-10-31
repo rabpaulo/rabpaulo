@@ -18,7 +18,7 @@ I apply Clean Architecture, SOLID principles, and CI/CD pipelines to build maint
 ## Stack
 
 - **Languages:** TypeScript · JavaScript · Python · Kotlin · Java · SQL · Shell Script
-- **Web & Mobile:** React · React Native · Next.js · Expo · Jetpack Compose · Tailwind CSS
+- **Web & Mobile:** React · React Native · Next.js · Expo · Expo Router · Jetpack Compose · Tailwind CSS
 - **Backend & APIs:** Node.js · Express.js · REST APIs · JWT
 - **Databases:** MongoDB · MySQL · SQLite · Firebase
 - **DevOps & Cloud:** Docker · Git · GitHub · Linux · AWS
